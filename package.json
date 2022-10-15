@@ -1,0 +1,25 @@
+{
+  "name": "tp02",
+  "version": "1.0.0",
+  "description": "CRUD con archivo de texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdtaballione/backend-tp02.git"
+  },
+  "author": "Fernando Diaz Taballione",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdtaballione/backend-tp02/issues"
+  },
+  "homepage": "https://github.com/fdtaballione/backend-tp02#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
